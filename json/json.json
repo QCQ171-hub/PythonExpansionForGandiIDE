@@ -1,0 +1,15 @@
+{
+  "id": "json",
+  "name": "B站拓展和KC聊天记录解析器",
+  "description": "解析B站拓展和KC聊天记录",
+  "detail": "",
+  "version": "1.0.0",
+  "author": "QCQ171-hub",
+  "author_avatar": "https://avatars.githubusercontent.com/u/309306482?v=4",
+  "tags": [
+    "JSON",
+    "Python"
+  ],
+  "created_at": "2026-10-05",
+  "updated_at": "2026-10-05"
+}
